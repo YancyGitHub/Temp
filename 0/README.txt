@@ -1,13 +1,17 @@
-ÏÂÔØÍê³Éºó£¬½âÑ¹²¢½øÈëÄ¿Â¼ÖÐ£¬¼ÌÐøÖ´ÐÐ£º
+ä¸‹è½½å®ŒæˆåŽï¼Œè§£åŽ‹å¹¶è¿›å…¥ç›®å½•ä¸­ï¼Œç»§ç»­æ‰§è¡Œï¼š
 
 sudo cp * /usr/share/fonts
 
-2. Ö´ÐÐÒÔÏÂÃüÁî,Éú³É×ÖÌåµÄË÷ÒýÐÅÏ¢£º
+2. æ‰§è¡Œä»¥ä¸‹å‘½ä»¤,ç”Ÿæˆå­—ä½“çš„ç´¢å¼•ä¿¡æ¯ï¼š
 
 sudo mkfontscale
 
 sudo mkfontdir
 
-3. ÔËÐÐfc-cacheÃüÁî¸üÐÂ×ÖÌå»º´æ¡£
+3. è¿è¡Œfc-cacheå‘½ä»¤æ›´æ–°å­—ä½“ç¼“å­˜ã€‚
 
 sudo fc-cache
+
+
+
+tezt
